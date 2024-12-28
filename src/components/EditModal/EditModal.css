@@ -118,7 +118,7 @@ select[data-category="Data Science"] {
 
   .form-group input,
   .form-group textarea {
-    padding: 0.4rem; /* Reduce padding inside inputs */
+    padding: 0.4rem;
     font-size: 0.9rem; /* Smaller font size */
   }
 
