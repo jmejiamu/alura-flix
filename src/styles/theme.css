@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&display=swap");
+
+:root {
+  /* Colors */
+  --blue: #2271d1;
+  --light-blue: #6bd1ff;
+  --dark-gray: #262626;
+  --light-gray: #f5f5f5;
+  --white: #fff;
+
+  /* Fonts */
+  --font-family: "Source Sans Pro", sans-serif;
+}

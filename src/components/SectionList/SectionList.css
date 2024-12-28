@@ -1,0 +1,23 @@
+@import "../../styles/theme.css";
+
+.section-list {
+  padding: 1.5rem;
+  background-color: var(--dark-gray);
+}
+
+.section-category {
+  margin-bottom: 2rem;
+}
+
+.category-title {
+  font-size: 1.5rem;
+  color: var(--light-gray);
+  font-family: var(--font-family);
+  margin-bottom: 1rem;
+}
+
+.category-row {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+}
